@@ -2,5 +2,5 @@ Name: Ishola Jeremiah
 Matric Number: 23CG034085
 Machine Learning Algorithm Used: Random Forest Regressor
 Model Persistence Method: Pickle (.pkl)
-Live Hosted URL: https://houseprice-project-awa-emmanuel.onrender.com/
+Live Hosted URL: https://houseprice-project-ishola-jeremiah.onrender.com
 GitHub Repository Link: https://github.com/IsholaJeremiah/HousePrice_Project_Ishola_Jeremiah_23CG034085
