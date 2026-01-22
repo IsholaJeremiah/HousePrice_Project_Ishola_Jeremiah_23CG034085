@@ -1,0 +1,6 @@
+Name: Ishola Jeremiah
+Matric Number: 23CG034085
+Machine Learning Algorithm Used: Random Forest Regressor
+Model Persistence Method: Pickle (.pkl)
+Live Hosted URL: https://houseprice-project-awa-emmanuel.onrender.com/
+GitHub Repository Link: https://github.com/AwaEmmanuel-lab/HousePrice_Project_Awa_Emmanuel_23CE034385
